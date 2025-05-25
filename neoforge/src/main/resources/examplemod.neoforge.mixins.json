@@ -5,7 +5,7 @@
   "compatibilityLevel": "JAVA_21",
   "mixins": [],
   "client": [
-    "MixinTitleScreen"
+    "dev.dogie.examplemod.mixin.MixinTitleScreen"
   ],
   "server": [],
   "injectors": {
